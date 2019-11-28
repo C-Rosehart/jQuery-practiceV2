@@ -1,0 +1,15 @@
+/* do @medias
+all font should be sans-serif */
+
+body {
+  font-family: sans-serif;
+}
+
+form,
+.results {
+  margin-top: 50px;
+}
+
+label {
+  display: block;
+}
